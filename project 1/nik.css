@@ -1,0 +1,45 @@
+body {
+    padding: 20px 10px;
+    font-family: Helvetica;
+    max-width: 2000px;
+    margin: 0 auto;
+    font-size: 1.8em;
+}
+
+#list {
+    float: right;
+}
+
+.table {
+    border: thick inset #0ff;
+    height: auto;
+    width: auto;
+}
+
+.lesson {
+    background-color: #12788F;
+    border-radius: 50px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.concept {
+    color: #CFD820;
+    font-family: Times;
+}
+
+h2 {
+    text-align: center;
+    color: #DAAA50;
+    font-family: Helvetica;
+}
+
+.code {
+    color: #000;
+    background-color: #FCE7C1;
+    font-family: Helvetica;
+    margin: 10px;
+    padding-left: 3px;
+    padding-right: 3px;
+    border-radius: 10px;
+}
